@@ -5,10 +5,10 @@ int main(){
 	int x; 
 	int y;
 
-    printf("Birinci sayıyı girin.");
+    printf("Birinci sayıyı girin. ");
     scanf("%d", &x);
     
-    printf("İkinci sayıyı girin.");
+    printf("İkinci sayıyı girin. ");
     scanf("%d", &y);    
     
     if(x > y) {
